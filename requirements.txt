@@ -4,3 +4,4 @@ playsound==1.2.2
 sounddevice==0.4.1
 wavio==0.0.4
 PyAudio==0.2.11
+moviepy==1.0.1
